@@ -2,19 +2,34 @@
 //
 
 #include <iostream>
-#include <cmath>
 using namespace std;
-double num;
-int k;
 int main() {
-	// put your code here
-	cin >> num;
-	num *= 10;
-	k = trunc(num);
-	cout << k % 10;
-	return 0;
+    // put your code here
+    int n, m; cin >> n >> m;
+    int a[n][m];
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            int num; cin >> num;
+            a[i][j] = num;
+        }
+    }
+    int s1, s2; cin >> s1 >> s2;
+    for (int i = 0; i < n; i++)
+    {
+        swap(a[i][s1], a[i][s2]);
+    }
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            cout << a[i][j] << " ";
+        }
+        cout << endl;
+    }
+    return 0;
 }
-
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
 
