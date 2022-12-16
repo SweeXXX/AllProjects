@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\bin\Debug\net6.0\QuicSort.exe
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\bin\Debug\net6.0\QuicSort.deps.json
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\bin\Debug\net6.0\QuicSort.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\bin\Debug\net6.0\QuicSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\bin\Debug\net6.0\QuicSort.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\refint\QuicSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\QuicSort.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Sorting\QuicSort\obj\Debug\net6.0\ref\QuicSort.dll

@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\bin\Debug\net6.0\Вшм.exe
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\bin\Debug\net6.0\Вшм.deps.json
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\bin\Debug\net6.0\Вшм.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\bin\Debug\net6.0\Вшм.dll
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\bin\Debug\net6.0\Вшм.pdb
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.dll
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\refint\Вшм.dll
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.pdb
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\Вшм.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Вшм\Вшм\obj\Debug\net6.0\ref\Вшм.dll

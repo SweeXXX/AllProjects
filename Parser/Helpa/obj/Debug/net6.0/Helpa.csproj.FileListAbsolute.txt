@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\bin\Debug\net6.0\Helpa.exe
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\bin\Debug\net6.0\Helpa.deps.json
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\bin\Debug\net6.0\Helpa.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\bin\Debug\net6.0\Helpa.dll
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\bin\Debug\net6.0\Helpa.pdb
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.dll
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\refint\Helpa.dll
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.pdb
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\Helpa.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Parser\Helpa\obj\Debug\net6.0\ref\Helpa.dll

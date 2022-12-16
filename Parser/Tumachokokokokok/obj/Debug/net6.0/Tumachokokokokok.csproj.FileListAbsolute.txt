@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\bin\Debug\net6.0\Tumachokokokokok.exe
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\bin\Debug\net6.0\Tumachokokokokok.deps.json
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\bin\Debug\net6.0\Tumachokokokokok.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\bin\Debug\net6.0\Tumachokokokokok.dll
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\bin\Debug\net6.0\Tumachokokokokok.pdb
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.dll
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\refint\Tumachokokokokok.dll
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.pdb
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\Tumachokokokokok.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Parser\Tumachokokokokok\obj\Debug\net6.0\ref\Tumachokokokokok.dll

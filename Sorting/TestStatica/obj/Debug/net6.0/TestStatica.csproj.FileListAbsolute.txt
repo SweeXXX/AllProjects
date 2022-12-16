@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\bin\Debug\net6.0\TestStatica.exe
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\bin\Debug\net6.0\TestStatica.deps.json
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\bin\Debug\net6.0\TestStatica.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\bin\Debug\net6.0\TestStatica.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\bin\Debug\net6.0\TestStatica.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\refint\TestStatica.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\TestStatica.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TestStatica\obj\Debug\net6.0\ref\TestStatica.dll

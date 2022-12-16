@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\bin\Debug\net6.0\ShakeSort.exe
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\bin\Debug\net6.0\ShakeSort.deps.json
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\bin\Debug\net6.0\ShakeSort.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\bin\Debug\net6.0\ShakeSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\bin\Debug\net6.0\ShakeSort.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\refint\ShakeSort.dll
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.pdb
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ShakeSort.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Sorting\TrySort\obj\Debug\net6.0\ref\ShakeSort.dll

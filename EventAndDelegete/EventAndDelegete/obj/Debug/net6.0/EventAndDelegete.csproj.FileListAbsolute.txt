@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\bin\Debug\net6.0\EventAndDelegete.exe
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\bin\Debug\net6.0\EventAndDelegete.deps.json
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\bin\Debug\net6.0\EventAndDelegete.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\bin\Debug\net6.0\EventAndDelegete.dll
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\bin\Debug\net6.0\EventAndDelegete.pdb
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.dll
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\refint\EventAndDelegete.dll
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.pdb
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\EventAndDelegete.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\EventAndDelegete\EventAndDelegete\obj\Debug\net6.0\ref\EventAndDelegete.dll
