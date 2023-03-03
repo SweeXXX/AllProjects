@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\NP\bin\Debug\net6.0\NP.exe
+C:\Users\Никита\Desktop\fakk\NP\bin\Debug\net6.0\NP.deps.json
+C:\Users\Никита\Desktop\fakk\NP\bin\Debug\net6.0\NP.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\NP\bin\Debug\net6.0\NP.dll
+C:\Users\Никита\Desktop\fakk\NP\bin\Debug\net6.0\NP.pdb
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.dll
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\refint\NP.dll
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.pdb
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\NP.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\NP\obj\Debug\net6.0\ref\NP.dll

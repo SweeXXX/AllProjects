@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\LearningThreads\bin\Debug\net6.0\LearningThreads.exe
+C:\Users\Никита\Desktop\fakk\LearningThreads\bin\Debug\net6.0\LearningThreads.deps.json
+C:\Users\Никита\Desktop\fakk\LearningThreads\bin\Debug\net6.0\LearningThreads.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\LearningThreads\bin\Debug\net6.0\LearningThreads.dll
+C:\Users\Никита\Desktop\fakk\LearningThreads\bin\Debug\net6.0\LearningThreads.pdb
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.dll
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\refint\LearningThreads.dll
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.pdb
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\LearningThreads.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\LearningThreads\obj\Debug\net6.0\ref\LearningThreads.dll

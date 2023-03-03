@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HardSun/1.0.0": {
+        "dependencies": {
+          "Sorts": "1.0.0"
+        },
+        "runtime": {
+          "HardSun.dll": {}
+        }
+      },
+      "NP/1.0.0": {
+        "runtime": {
+          "NP.dll": {}
+        }
+      },
+      "Sorts/1.0.0": {
+        "dependencies": {
+          "NP": "1.0.0"
+        },
+        "runtime": {
+          "Sorts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardSun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

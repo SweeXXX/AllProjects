@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\TRY\bin\Debug\net6.0\TRY.exe
+C:\Users\Никита\Desktop\fakk\TRY\bin\Debug\net6.0\TRY.deps.json
+C:\Users\Никита\Desktop\fakk\TRY\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\TRY\bin\Debug\net6.0\TRY.dll
+C:\Users\Никита\Desktop\fakk\TRY\bin\Debug\net6.0\TRY.pdb
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.dll
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.pdb
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\TRY\obj\Debug\net6.0\ref\TRY.dll

@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork1.exe
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork1.deps.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork1.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork1.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork1.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\refint\ClassWork1.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork1.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ref\ClassWork1.dll

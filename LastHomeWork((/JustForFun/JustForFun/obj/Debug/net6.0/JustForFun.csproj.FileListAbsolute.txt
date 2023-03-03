@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\bin\Debug\net6.0\JustForFun.exe
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\bin\Debug\net6.0\JustForFun.deps.json
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\bin\Debug\net6.0\JustForFun.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\bin\Debug\net6.0\JustForFun.dll
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\bin\Debug\net6.0\JustForFun.pdb
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.dll
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\refint\JustForFun.dll
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.pdb
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\JustForFun.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\LastHomeWork((\JustForFun\JustForFun\obj\Debug\net6.0\ref\JustForFun.dll

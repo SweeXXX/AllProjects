@@ -1,0 +1,13 @@
+C:\Users\Никита\Desktop\fakk\Host\bin\Debug\Host.exe.config
+C:\Users\Никита\Desktop\fakk\Host\bin\Debug\Host.exe
+C:\Users\Никита\Desktop\fakk\Host\bin\Debug\Host.pdb
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.exe
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.pdb
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.MainForm.resources
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.AddGuest.resources
+C:\Users\Никита\Desktop\fakk\Host\obj\Debug\Host.GuestForm.resources

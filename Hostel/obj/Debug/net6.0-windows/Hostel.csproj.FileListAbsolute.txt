@@ -1,0 +1,17 @@
+C:\Users\Никита\Desktop\fakk\Hostel\bin\Debug\net6.0-windows\Hostel.exe
+C:\Users\Никита\Desktop\fakk\Hostel\bin\Debug\net6.0-windows\Hostel.deps.json
+C:\Users\Никита\Desktop\fakk\Hostel\bin\Debug\net6.0-windows\Hostel.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Hostel\bin\Debug\net6.0-windows\Hostel.dll
+C:\Users\Никита\Desktop\fakk\Hostel\bin\Debug\net6.0-windows\Hostel.pdb
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.Form1.resources
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.dll
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\refint\Hostel.dll
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.pdb
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\Hostel.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Hostel\obj\Debug\net6.0-windows\ref\Hostel.dll
