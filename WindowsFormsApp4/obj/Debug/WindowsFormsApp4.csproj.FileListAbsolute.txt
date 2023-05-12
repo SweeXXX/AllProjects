@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

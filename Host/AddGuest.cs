@@ -28,7 +28,7 @@ namespace Host
                 this.tbName.Text = value;
             }
         }
-        public string[] Settings()
+        public  string[] Settings()
         {
             string[] result = {$"{this.TBNAME}", $"{tbSName.Text}" , $"{tbTName.Text }", $"{tbDateIN.Text }", $"{tbDateOUT.Text}" };
             return result;

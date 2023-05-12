@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Main.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.CheakTLP.resources
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\bin\Debug\Database2.mdf
+C:\Users\Никита\Desktop\fakk\WindowsFormsApp6\bin\Debug\Database2_log.ldf

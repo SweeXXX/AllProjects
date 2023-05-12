@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\Testing\bin\Debug\Testing.exe.config
+C:\Users\Никита\Desktop\fakk\Testing\bin\Debug\Testing.exe
+C:\Users\Никита\Desktop\fakk\Testing\bin\Debug\Testing.pdb
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.Form1.resources
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.exe
+C:\Users\Никита\Desktop\fakk\Testing\obj\Debug\Testing.pdb

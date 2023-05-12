@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\FastTest\bin\Debug\FastTest.exe.config
+C:\Users\Никита\Desktop\fakk\FastTest\bin\Debug\FastTest.exe
+C:\Users\Никита\Desktop\fakk\FastTest\bin\Debug\FastTest.pdb
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.Form1.resources
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.exe
+C:\Users\Никита\Desktop\fakk\FastTest\obj\Debug\FastTest.pdb

@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\Algo\bin\Debug\net7.0\Algo.exe
+C:\Users\Никита\Desktop\fakk\Algo\bin\Debug\net7.0\Algo.deps.json
+C:\Users\Никита\Desktop\fakk\Algo\bin\Debug\net7.0\Algo.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\Algo\bin\Debug\net7.0\Algo.dll
+C:\Users\Никита\Desktop\fakk\Algo\bin\Debug\net7.0\Algo.pdb
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.dll
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\refint\Algo.dll
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.pdb
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\Algo.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\Algo\obj\Debug\net7.0\ref\Algo.dll

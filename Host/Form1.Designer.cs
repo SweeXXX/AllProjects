@@ -51,6 +51,7 @@ namespace Host
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.Save = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.tlpAddDeleteCancel = new System.Windows.Forms.TableLayoutPanel();
             this.btnAddGuestTLP = new System.Windows.Forms.Button();
             this.btnCancelTLP = new System.Windows.Forms.Button();
@@ -78,7 +79,6 @@ namespace Host
             this.panel6 = new System.Windows.Forms.Panel();
             this.lblGuestsList = new System.Windows.Forms.Label();
             this.dataGridViewSort = new System.Windows.Forms.DataGridView();
-            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -204,7 +204,7 @@ namespace Host
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 35);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1478, 687);
+            this.panel2.Size = new System.Drawing.Size(1478, 1002);
             this.panel2.TabIndex = 5;
             // 
             // splitContainer1
@@ -223,7 +223,7 @@ namespace Host
             this.splitContainer1.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(92)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Panel2.Controls.Add(this.panel6);
-            this.splitContainer1.Size = new System.Drawing.Size(1478, 687);
+            this.splitContainer1.Size = new System.Drawing.Size(1478, 1002);
             this.splitContainer1.SplitterDistance = 224;
             this.splitContainer1.TabIndex = 0;
             // 
@@ -237,7 +237,7 @@ namespace Host
             this.LeftPanel.Location = new System.Drawing.Point(0, 0);
             this.LeftPanel.MinimumSize = new System.Drawing.Size(110, 665);
             this.LeftPanel.Name = "LeftPanel";
-            this.LeftPanel.Size = new System.Drawing.Size(222, 685);
+            this.LeftPanel.Size = new System.Drawing.Size(222, 1000);
             this.LeftPanel.TabIndex = 5;
             // 
             // tableLayoutPanel1
@@ -253,7 +253,7 @@ namespace Host
             this.tableLayoutPanel1.Controls.Add(this.Save, 0, 6);
             this.tableLayoutPanel1.Controls.Add(this.button2, 0, 7);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 209);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 524);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 8;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 46.37681F));
@@ -332,6 +332,16 @@ namespace Host
             this.Save.Text = "Сохранить";
             this.Save.UseVisualStyleBackColor = true;
             this.Save.Click += new System.EventHandler(this.Save_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(3, 302);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(203, 95);
+            this.button2.TabIndex = 15;
+            this.button2.Text = "Удалить";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Delete_Click);
             // 
             // tlpAddDeleteCancel
             // 
@@ -435,7 +445,7 @@ namespace Host
             this.splitContainer2.Panel2.Controls.Add(this.ShowGuest);
             this.splitContainer2.Panel2.Controls.Add(this.pictureBox2);
             this.splitContainer2.Panel2.Controls.Add(this.lblNumberID);
-            this.splitContainer2.Size = new System.Drawing.Size(1248, 647);
+            this.splitContainer2.Size = new System.Drawing.Size(1248, 962);
             this.splitContainer2.SplitterDistance = 626;
             this.splitContainer2.TabIndex = 6;
             this.splitContainer2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.splitContainer2_MouseClick);
@@ -452,7 +462,7 @@ namespace Host
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(0, 0);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(626, 647);
+            this.listView1.Size = new System.Drawing.Size(626, 962);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -631,21 +641,11 @@ namespace Host
             this.dataGridViewSort.TabIndex = 4;
             this.dataGridViewSort.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridViewSort_CellMouseDoubleClick);
             // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(3, 302);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(203, 95);
-            this.button2.TabIndex = 15;
-            this.button2.Text = "Удалить";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.Delete_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1478, 722);
+            this.ClientSize = new System.Drawing.Size(1478, 1037);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.MinimumSize = new System.Drawing.Size(897, 660);

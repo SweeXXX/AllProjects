@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Никита\Desktop\fakk\Calculate\bin\Debug\Calculate.exe
+C:\Users\Никита\Desktop\fakk\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.exe
+C:\Users\Никита\Desktop\fakk\Calculate\obj\Debug\Calculate.pdb

@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\TypoGraph\bin\Debug\TypoGraph.exe.config
+C:\Users\Никита\Desktop\fakk\TypoGraph\bin\Debug\TypoGraph.exe
+C:\Users\Никита\Desktop\fakk\TypoGraph\bin\Debug\TypoGraph.pdb
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.exe
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.pdb
+C:\Users\Никита\Desktop\fakk\TypoGraph\obj\Debug\TypoGraph.TypoGraph.resources

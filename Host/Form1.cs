@@ -95,12 +95,12 @@ namespace Host
 
         private void AddGuest(object sender, EventArgs e)
         {
-            guestForm.Show();
+            addGuest.Show();
         }
         public void NAdd(object sender, EventArgs e)
         {
-            AddGuest a = new AddGuest();
-            string[] strings = a.Settings();
+            
+            string[] strings = addGuest.Settings();
             ListViewItem listViewItem = new ListViewItem(strings);
             listView1.Items.Add(listViewItem);
         }

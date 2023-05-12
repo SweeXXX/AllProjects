@@ -71,6 +71,11 @@ namespace NotePad
             this.сменитьТемуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.тёмнаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.светлаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.сменитьКодировкуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uTF8ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uTF16ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uTF32ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.крутаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.справкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.справкаОСебеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.справкаОПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -78,11 +83,6 @@ namespace NotePad
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
-            this.сменитьКодировкуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.uTF8ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.uTF16ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.uTF32ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.крутаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -351,6 +351,41 @@ namespace NotePad
             this.светлаяToolStripMenuItem.Text = "Светлая";
             this.светлаяToolStripMenuItem.Click += new System.EventHandler(this.ChangeToWhite);
             // 
+            // сменитьКодировкуToolStripMenuItem
+            // 
+            this.сменитьКодировкуToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.uTF8ToolStripMenuItem,
+            this.uTF16ToolStripMenuItem,
+            this.uTF32ToolStripMenuItem,
+            this.крутаяToolStripMenuItem});
+            this.сменитьКодировкуToolStripMenuItem.Name = "сменитьКодировкуToolStripMenuItem";
+            this.сменитьКодировкуToolStripMenuItem.Size = new System.Drawing.Size(340, 40);
+            this.сменитьКодировкуToolStripMenuItem.Text = "Сменить Кодировку";
+            // 
+            // uTF8ToolStripMenuItem
+            // 
+            this.uTF8ToolStripMenuItem.Name = "uTF8ToolStripMenuItem";
+            this.uTF8ToolStripMenuItem.Size = new System.Drawing.Size(195, 40);
+            this.uTF8ToolStripMenuItem.Text = "UTF-8";
+            // 
+            // uTF16ToolStripMenuItem
+            // 
+            this.uTF16ToolStripMenuItem.Name = "uTF16ToolStripMenuItem";
+            this.uTF16ToolStripMenuItem.Size = new System.Drawing.Size(195, 40);
+            this.uTF16ToolStripMenuItem.Text = "UTF-16";
+            // 
+            // uTF32ToolStripMenuItem
+            // 
+            this.uTF32ToolStripMenuItem.Name = "uTF32ToolStripMenuItem";
+            this.uTF32ToolStripMenuItem.Size = new System.Drawing.Size(195, 40);
+            this.uTF32ToolStripMenuItem.Text = "UTF-32";
+            // 
+            // крутаяToolStripMenuItem
+            // 
+            this.крутаяToolStripMenuItem.Name = "крутаяToolStripMenuItem";
+            this.крутаяToolStripMenuItem.Size = new System.Drawing.Size(195, 40);
+            this.крутаяToolStripMenuItem.Text = "Крутая";
+            // 
             // справкаToolStripMenuItem
             // 
             this.справкаToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -398,42 +433,7 @@ namespace NotePad
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            // 
-            // сменитьКодировкуToolStripMenuItem
-            // 
-            this.сменитьКодировкуToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.uTF8ToolStripMenuItem,
-            this.uTF16ToolStripMenuItem,
-            this.uTF32ToolStripMenuItem,
-            this.крутаяToolStripMenuItem});
-            this.сменитьКодировкуToolStripMenuItem.Name = "сменитьКодировкуToolStripMenuItem";
-            this.сменитьКодировкуToolStripMenuItem.Size = new System.Drawing.Size(340, 40);
-            this.сменитьКодировкуToolStripMenuItem.Text = "Сменить Кодировку";
-            // 
-            // uTF8ToolStripMenuItem
-            // 
-            this.uTF8ToolStripMenuItem.Name = "uTF8ToolStripMenuItem";
-            this.uTF8ToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.uTF8ToolStripMenuItem.Text = "UTF-8";
-            // 
-            // uTF16ToolStripMenuItem
-            // 
-            this.uTF16ToolStripMenuItem.Name = "uTF16ToolStripMenuItem";
-            this.uTF16ToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.uTF16ToolStripMenuItem.Text = "UTF-16";
-            // 
-            // uTF32ToolStripMenuItem
-            // 
-            this.uTF32ToolStripMenuItem.Name = "uTF32ToolStripMenuItem";
-            this.uTF32ToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.uTF32ToolStripMenuItem.Text = "UTF-32";
-            // 
-            // крутаяToolStripMenuItem
-            // 
-            this.крутаяToolStripMenuItem.Name = "крутаяToolStripMenuItem";
-            this.крутаяToolStripMenuItem.Size = new System.Drawing.Size(270, 40);
-            this.крутаяToolStripMenuItem.Text = "Крутая";
-            // 
+           // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);

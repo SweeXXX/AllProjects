@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<MyClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SerialID="btn111" Length="222222222">
+  <Pos>
+    <X>228</X>
+    <Y>1005</Y>
+  </Pos>
+  <List>
+    <Element>Eleme0</Element>
+    <Element>Element1</Element>
+    <Element>Element2</Element>
+    <Element>Element3</Element>
+    <Element>Element4</Element>
+    <Element>Element5</Element>
+    <Element>Element6</Element>
+    <Element>Element7</Element>
+    <Element>Element8</Element>
+  </List>
+</MyClass>

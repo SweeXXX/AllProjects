@@ -1,0 +1,13 @@
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.MainUser.resources

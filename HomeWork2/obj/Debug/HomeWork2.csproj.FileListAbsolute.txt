@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\fakk\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\Никита\Desktop\fakk\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\Никита\Desktop\fakk\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\Никита\Desktop\fakk\HomeWork2\obj\Debug\HomeWork2.pdb
